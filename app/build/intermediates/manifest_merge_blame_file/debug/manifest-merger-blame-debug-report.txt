@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="org.visionAssist"
+5    android:versionCode="1"
+6    android:versionName="1.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="34" />
+10-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+11
+12    <!-- Enable instant app support -->
+13    <dist:module dist:instant="true" />
+13-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:10:5-40
+13-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:10:18-37
+14
+15    <!-- Declare features -->
+16    <uses-feature android:name="android.hardware.camera" />
+16-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:13:5-60
+16-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:13:19-57
+17
+18    <!-- Declare permissions -->
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:16:5-65
+19-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:16:22-62
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23
+24    <application
+24-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:18:5-48:19
+25        android:allowBackup="true"
+25-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:22:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:19:9-43
+29        android:label="@string/app_name"
+29-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:21:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:20:9-54
+31        android:taskAffinity="" >
+31-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:23:9-32
+32        <activity
+32-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:26:9-46:20
+33            android:name="org.tensorflow.lite.examples.objectdetection.MainActivity"
+33-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:27:13-41
+34            android:clearTaskOnLaunch="true"
+34-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:28:13-45
+35            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
+35-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:34:13-91
+36            android:exported="true"
+36-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:30:13-36
+37            android:icon="@mipmap/ic_launcher"
+37-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:31:13-47
+38            android:resizeableActivity="true"
+38-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:33:13-46
+39            android:rotationAnimation="seamless"
+39-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:32:13-49
+40            android:theme="@style/AppTheme" >
+40-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:29:13-44
+41
+42            <!-- Main app intent filter -->
+43            <intent-filter>
+43-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:38:13-41:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:39:17-69
+44-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:39:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:40:17-77
+46-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:40:27-74
+47            </intent-filter>
+48
+49            <!-- Declare notch support -->
+50            <meta-data
+50-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:44:13-83
+51                android:name="android.notch_support"
+51-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:44:24-60
+52                android:value="true" />
+52-->C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:44:61-81
+53        </activity>
+54
+55        <uses-library
+55-->[androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:25:9-27:40
+56            android:name="androidx.window.extensions"
+56-->[androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:26:13-54
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:27:13-37
+58        <uses-library
+58-->[androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:28:9-30:40
+59            android:name="androidx.window.sidecar"
+59-->[androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:29:13-51
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:30:13-37
+61
+62        <service
+62-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+63            android:name="androidx.camera.core.impl.MetadataHolderService"
+63-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+64            android:enabled="false"
+64-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+65            android:exported="false" >
+65-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+66            <meta-data
+66-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+67                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+67-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+68                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+68-->[androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+69        </service>
+70        <service
+70-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:9:9-21:19
+71            android:name="com.google.android.gms.metadata.ModuleDependencies"
+71-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:10:13-78
+72            android:enabled="false"
+72-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:11:13-36
+73            android:exported="false" >
+73-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:12:13-37
+74            <intent-filter>
+74-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:14:13-16:29
+75                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
+75-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:15:17-94
+75-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:15:25-91
+76            </intent-filter>
+77
+78            <meta-data
+78-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:18:13-20:36
+79                android:name="tflite_gpu_dynamite:222612000:required"
+79-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:19:17-70
+80                android:value="" />
+80-->[com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:20:17-33
+81            <meta-data
+81-->[com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:18:13-20:36
+82                android:name="tflite_dynamite:3:required"
+82-->[com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:19:17-58
+83                android:value="" />
+83-->[com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:20:17-33
+84        </service>
+85
+86        <provider
+86-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:27:13-67
+88            android:authorities="org.visionAssist.androidx-startup"
+88-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:28:13-68
+89            android:exported="false" >
+89-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:29:13-37
+90            <meta-data
+90-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+91                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+91-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+92                android:value="androidx.startup" />
+92-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+93        </provider>
+94
+95        <activity
+95-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+99
+100        <meta-data
+100-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+101            android:name="com.google.android.gms.version"
+101-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+102            android:value="@integer/google_play_services_version" />
+102-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+103    </application>
+104
+105</manifest>

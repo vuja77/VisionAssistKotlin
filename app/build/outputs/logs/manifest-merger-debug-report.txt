@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\8a0c7f53b18a22fb2902a8e0f192d3e6\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\e4ccb77379313e3e9aae4933f9cdf38a\transformed\jetified-databinding-ktx-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\e97e72f3103353bdc764b65721faf765\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\7528c4c67062afdd6a6e0e445da7f9cc\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\b629bf7b20b3e8f64ed83afd966a08a8\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Korisnik\.gradle\caches\transforms-3\4f4d8d00dbaeeff316f0551496de8d45\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\a759831a584717ebb83f883fdbd768ff\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\6e5b78e99a525b41aa686f0d4397fe02\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\ea94074da10f153166fb1b2b86dcfc5d\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\56e93a70cdbb89b50857daea79f8b82d\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\d4d3fa3a6ab49d6b8541302c72eaff6e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0bfaff8a52b9dfb128e3630fb3eaecf8\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0d4eba5b012a1375426bf18ead3dea76\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Korisnik\.gradle\caches\transforms-3\e7e86bb29dc932a23d1fe95da38d6c79\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\c4391ad9bbe9f46bbbba7f89b30b2176\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0ad409ce6327de09c118cfe2ab201150\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\0df5ca8f65f3b5f63223c89b4f876c48\transformed\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\d9be7a1deb3b41535b2343663a2c105b\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\93346f62aae87460acda13341fb3c074\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\db2c5e17cd6f439dc9d4ff7de2ab99c2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\82efdb218f45f4d80900cf855e1cdd89\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e703b4de60cf347f421d52cd5be9a13d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\a83ee885e3c03bcd79418d83b7c8e055\transformed\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\f3a84adab843aa40f64e4fddacdc6e6e\transformed\jetified-tensorflow-lite-task-vision-play-services-0.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\64101c200ff9cff078e56bd4ea5c0cb1\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\2693f0a1ebc0f6a1d219f731028a9a46\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tflite-support:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f993531e3b2a58d9bc94def78b5ac50\transformed\jetified-play-services-tflite-support-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tflite-java:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\84b387e2b0ac1db196fb0e2eb223d8b8\transformed\jetified-play-services-tflite-java-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Korisnik\.gradle\caches\transforms-3\033569107608df285febd4aac4939e17\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Korisnik\.gradle\caches\transforms-3\e6f0a1235a6edd3e4c184e70019888d4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\4dcf65b13f0897ab8fe0694d538b1dea\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Korisnik\.gradle\caches\transforms-3\d8724054b9d68e96f5b2ef4d0780ddb8\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\0f182b7c29dd3c8143650bf53958139a\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1830a1fcb04e2df5377aac9ccbccf4f9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3fce1f94d925cc4f8cd9d497719d58a9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\ce006067fd65a85fc29b623221b4a984\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\57ea133abbeb58eb59ee72902ba95da0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\80e41225eb1743c8d5656e10469dc3e1\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\226f592522e367ad042c896fdc82aac9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\eb5642ca0bfeec8eea12acd86ce925c7\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\438a6798888eeb43f260726757fa0633\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\3292b4e6e0cdd7133149560217507ede\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b86c286ffe7bffdf8cc6629dd8b12bd4\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a2fdeaac00821f4169fe34c81f3f1f15\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\d5d46864afcd49e3b4d09f27978e316c\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\64e98a3bc306aac9821c37aa02bebc3a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\97e050ddb2bbfa03cda1341325c26a66\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\022f450652b66604fa767a59bc116974\transformed\lifecycle-viewmodel-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\07f83cac09a0e5d7b2f0bac4f18dc210\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\60b986e66e7014d527fdebe740e9c77b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3ca366711c1bd1fa70f7e5e1f6c899f8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Korisnik\.gradle\caches\transforms-3\28a7a1fa5d3463c14e28488c4dde09f1\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\4a04328c462cec6a70557e14dedd005f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e8b5ed3139272e0e6a833a5e5d839763\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a3bf433aee387006754377d0ab104dcd\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e3840049638dffa05f916abd5a4b97a8\transformed\lifecycle-livedata-core-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\362a7c36a2aab69d37507e7db0e77f02\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e21dad681d02280bb8eb2d51c9540f0e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a80d78931183bbe8ca38528bdf4df18a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\65c418b40fa4a2fd4f651eb6bda54e8d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\9daee57fc5eedd9f6e3fd875df97e392\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\fe8643c96f94b9e57a3da1e4c1f8457f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\7d1bf6a08c3f2cf5a3fd58f332ef4ee5\transformed\jetified-tensorflow-lite-support-api-0.4.2\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Korisnik\.gradle\caches\transforms-3\84420106a1908057009ef86a353a3247\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b756680135589cf8a60843ca85dd404f\transformed\jetified-tensorflow-lite-api-2.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\9715671767083cbf0ebcd6d21a0e1a4e\transformed\jetified-tensorflow-lite-task-base-0.4.2\AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6234e03e493b5a702827de0072caa16f\transformed\jetified-tensorflow-lite-gpu-api-2.10.0\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+	package
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:7:5-59
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:6:5-51
+	xmlns:dist
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:5:5-61
+	android:versionCode
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:4:5-63
+dist:module
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:10:5-40
+	dist:instant
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:10:18-37
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:13:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:16:22-62
+application
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:18:5-48:19
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Korisnik\.gradle\caches\transforms-3\e7e86bb29dc932a23d1fe95da38d6c79\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Korisnik\.gradle\caches\transforms-3\e7e86bb29dc932a23d1fe95da38d6c79\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0ad409ce6327de09c118cfe2ab201150\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0ad409ce6327de09c118cfe2ab201150\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Korisnik\.gradle\caches\transforms-3\033569107608df285febd4aac4939e17\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Korisnik\.gradle\caches\transforms-3\033569107608df285febd4aac4939e17\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\4a04328c462cec6a70557e14dedd005f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\4a04328c462cec6a70557e14dedd005f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Korisnik\.gradle\caches\transforms-3\84420106a1908057009ef86a353a3247\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Korisnik\.gradle\caches\transforms-3\84420106a1908057009ef86a353a3247\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b756680135589cf8a60843ca85dd404f\transformed\jetified-tensorflow-lite-api-2.10.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b756680135589cf8a60843ca85dd404f\transformed\jetified-tensorflow-lite-api-2.10.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\9715671767083cbf0ebcd6d21a0e1a4e\transformed\jetified-tensorflow-lite-task-base-0.4.2\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\9715671767083cbf0ebcd6d21a0e1a4e\transformed\jetified-tensorflow-lite-task-base-0.4.2\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6234e03e493b5a702827de0072caa16f\transformed\jetified-tensorflow-lite-gpu-api-2.10.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6234e03e493b5a702827de0072caa16f\transformed\jetified-tensorflow-lite-gpu-api-2.10.0\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:21:9-41
+	tools:ignore
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:24:9-35
+	android:roundIcon
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:22:9-35
+	android:taskAffinity
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:23:9-32
+activity#org.tensorflow.lite.examples.objectdetection.MainActivity
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:26:9-46:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:28:13-45
+	android:exported
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:30:13-36
+	android:resizeableActivity
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:33:13-46
+	android:rotationAnimation
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:34:13-91
+	tools:targetApi
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:35:13-32
+	android:icon
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:31:13-47
+	android:theme
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:40:27-74
+meta-data#android.notch_support
+ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:44:13-83
+	android:value
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:44:61-81
+	android:name
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:44:24-60
+uses-sdk
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\8a0c7f53b18a22fb2902a8e0f192d3e6\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\8a0c7f53b18a22fb2902a8e0f192d3e6\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\e4ccb77379313e3e9aae4933f9cdf38a\transformed\jetified-databinding-ktx-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\e4ccb77379313e3e9aae4933f9cdf38a\transformed\jetified-databinding-ktx-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\e97e72f3103353bdc764b65721faf765\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\e97e72f3103353bdc764b65721faf765\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\7528c4c67062afdd6a6e0e445da7f9cc\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\7528c4c67062afdd6a6e0e445da7f9cc\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\b629bf7b20b3e8f64ed83afd966a08a8\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\b629bf7b20b3e8f64ed83afd966a08a8\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Korisnik\.gradle\caches\transforms-3\4f4d8d00dbaeeff316f0551496de8d45\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Korisnik\.gradle\caches\transforms-3\4f4d8d00dbaeeff316f0551496de8d45\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\a759831a584717ebb83f883fdbd768ff\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\a759831a584717ebb83f883fdbd768ff\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\6e5b78e99a525b41aa686f0d4397fe02\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\6e5b78e99a525b41aa686f0d4397fe02\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\ea94074da10f153166fb1b2b86dcfc5d\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\ea94074da10f153166fb1b2b86dcfc5d\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\56e93a70cdbb89b50857daea79f8b82d\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\56e93a70cdbb89b50857daea79f8b82d\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\d4d3fa3a6ab49d6b8541302c72eaff6e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\d4d3fa3a6ab49d6b8541302c72eaff6e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0bfaff8a52b9dfb128e3630fb3eaecf8\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0bfaff8a52b9dfb128e3630fb3eaecf8\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0d4eba5b012a1375426bf18ead3dea76\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0d4eba5b012a1375426bf18ead3dea76\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Korisnik\.gradle\caches\transforms-3\e7e86bb29dc932a23d1fe95da38d6c79\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Korisnik\.gradle\caches\transforms-3\e7e86bb29dc932a23d1fe95da38d6c79\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\c4391ad9bbe9f46bbbba7f89b30b2176\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\c4391ad9bbe9f46bbbba7f89b30b2176\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0ad409ce6327de09c118cfe2ab201150\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0ad409ce6327de09c118cfe2ab201150\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\0df5ca8f65f3b5f63223c89b4f876c48\transformed\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\0df5ca8f65f3b5f63223c89b4f876c48\transformed\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\d9be7a1deb3b41535b2343663a2c105b\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\d9be7a1deb3b41535b2343663a2c105b\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\93346f62aae87460acda13341fb3c074\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\93346f62aae87460acda13341fb3c074\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\db2c5e17cd6f439dc9d4ff7de2ab99c2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\db2c5e17cd6f439dc9d4ff7de2ab99c2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\82efdb218f45f4d80900cf855e1cdd89\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\82efdb218f45f4d80900cf855e1cdd89\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e703b4de60cf347f421d52cd5be9a13d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e703b4de60cf347f421d52cd5be9a13d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\a83ee885e3c03bcd79418d83b7c8e055\transformed\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\a83ee885e3c03bcd79418d83b7c8e055\transformed\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\f3a84adab843aa40f64e4fddacdc6e6e\transformed\jetified-tensorflow-lite-task-vision-play-services-0.4.2\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\f3a84adab843aa40f64e4fddacdc6e6e\transformed\jetified-tensorflow-lite-task-vision-play-services-0.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\64101c200ff9cff078e56bd4ea5c0cb1\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\64101c200ff9cff078e56bd4ea5c0cb1\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\2693f0a1ebc0f6a1d219f731028a9a46\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\2693f0a1ebc0f6a1d219f731028a9a46\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tflite-support:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f993531e3b2a58d9bc94def78b5ac50\transformed\jetified-play-services-tflite-support-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-support:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f993531e3b2a58d9bc94def78b5ac50\transformed\jetified-play-services-tflite-support-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-java:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\84b387e2b0ac1db196fb0e2eb223d8b8\transformed\jetified-play-services-tflite-java-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-java:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\84b387e2b0ac1db196fb0e2eb223d8b8\transformed\jetified-play-services-tflite-java-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Korisnik\.gradle\caches\transforms-3\033569107608df285febd4aac4939e17\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Korisnik\.gradle\caches\transforms-3\033569107608df285febd4aac4939e17\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Korisnik\.gradle\caches\transforms-3\e6f0a1235a6edd3e4c184e70019888d4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Korisnik\.gradle\caches\transforms-3\e6f0a1235a6edd3e4c184e70019888d4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\4dcf65b13f0897ab8fe0694d538b1dea\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\4dcf65b13f0897ab8fe0694d538b1dea\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Korisnik\.gradle\caches\transforms-3\d8724054b9d68e96f5b2ef4d0780ddb8\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Korisnik\.gradle\caches\transforms-3\d8724054b9d68e96f5b2ef4d0780ddb8\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\0f182b7c29dd3c8143650bf53958139a\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\0f182b7c29dd3c8143650bf53958139a\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1830a1fcb04e2df5377aac9ccbccf4f9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1830a1fcb04e2df5377aac9ccbccf4f9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3fce1f94d925cc4f8cd9d497719d58a9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3fce1f94d925cc4f8cd9d497719d58a9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\ce006067fd65a85fc29b623221b4a984\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\ce006067fd65a85fc29b623221b4a984\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\57ea133abbeb58eb59ee72902ba95da0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\57ea133abbeb58eb59ee72902ba95da0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\80e41225eb1743c8d5656e10469dc3e1\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\80e41225eb1743c8d5656e10469dc3e1\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\226f592522e367ad042c896fdc82aac9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\226f592522e367ad042c896fdc82aac9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\eb5642ca0bfeec8eea12acd86ce925c7\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\eb5642ca0bfeec8eea12acd86ce925c7\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\438a6798888eeb43f260726757fa0633\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\438a6798888eeb43f260726757fa0633\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\3292b4e6e0cdd7133149560217507ede\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\3292b4e6e0cdd7133149560217507ede\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b86c286ffe7bffdf8cc6629dd8b12bd4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b86c286ffe7bffdf8cc6629dd8b12bd4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a2fdeaac00821f4169fe34c81f3f1f15\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a2fdeaac00821f4169fe34c81f3f1f15\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\d5d46864afcd49e3b4d09f27978e316c\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Korisnik\.gradle\caches\transforms-3\d5d46864afcd49e3b4d09f27978e316c\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Korisnik\.gradle\caches\transforms-3\944c234b88502ae9e8c67f66c6068382\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\64e98a3bc306aac9821c37aa02bebc3a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\64e98a3bc306aac9821c37aa02bebc3a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\97e050ddb2bbfa03cda1341325c26a66\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\97e050ddb2bbfa03cda1341325c26a66\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\022f450652b66604fa767a59bc116974\transformed\lifecycle-viewmodel-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\022f450652b66604fa767a59bc116974\transformed\lifecycle-viewmodel-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\07f83cac09a0e5d7b2f0bac4f18dc210\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\07f83cac09a0e5d7b2f0bac4f18dc210\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\60b986e66e7014d527fdebe740e9c77b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\60b986e66e7014d527fdebe740e9c77b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3ca366711c1bd1fa70f7e5e1f6c899f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3ca366711c1bd1fa70f7e5e1f6c899f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Korisnik\.gradle\caches\transforms-3\28a7a1fa5d3463c14e28488c4dde09f1\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Korisnik\.gradle\caches\transforms-3\28a7a1fa5d3463c14e28488c4dde09f1\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\4a04328c462cec6a70557e14dedd005f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\4a04328c462cec6a70557e14dedd005f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e8b5ed3139272e0e6a833a5e5d839763\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e8b5ed3139272e0e6a833a5e5d839763\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a3bf433aee387006754377d0ab104dcd\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a3bf433aee387006754377d0ab104dcd\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e3840049638dffa05f916abd5a4b97a8\transformed\lifecycle-livedata-core-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e3840049638dffa05f916abd5a4b97a8\transformed\lifecycle-livedata-core-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\362a7c36a2aab69d37507e7db0e77f02\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\362a7c36a2aab69d37507e7db0e77f02\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e21dad681d02280bb8eb2d51c9540f0e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e21dad681d02280bb8eb2d51c9540f0e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a80d78931183bbe8ca38528bdf4df18a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a80d78931183bbe8ca38528bdf4df18a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\65c418b40fa4a2fd4f651eb6bda54e8d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\65c418b40fa4a2fd4f651eb6bda54e8d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\9daee57fc5eedd9f6e3fd875df97e392\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\9daee57fc5eedd9f6e3fd875df97e392\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\fe8643c96f94b9e57a3da1e4c1f8457f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\fe8643c96f94b9e57a3da1e4c1f8457f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\7d1bf6a08c3f2cf5a3fd58f332ef4ee5\transformed\jetified-tensorflow-lite-support-api-0.4.2\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.2] C:\Users\Korisnik\.gradle\caches\transforms-3\7d1bf6a08c3f2cf5a3fd58f332ef4ee5\transformed\jetified-tensorflow-lite-support-api-0.4.2\AndroidManifest.xml:4:3-71
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Korisnik\.gradle\caches\transforms-3\84420106a1908057009ef86a353a3247\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Korisnik\.gradle\caches\transforms-3\84420106a1908057009ef86a353a3247\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b756680135589cf8a60843ca85dd404f\transformed\jetified-tensorflow-lite-api-2.10.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\b756680135589cf8a60843ca85dd404f\transformed\jetified-tensorflow-lite-api-2.10.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6234e03e493b5a702827de0072caa16f\transformed\jetified-tensorflow-lite-gpu-api-2.10.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6234e03e493b5a702827de0072caa16f\transformed\jetified-tensorflow-lite-gpu-api-2.10.0\AndroidManifest.xml:7:5-8:41
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Korisnik\.gradle\caches\transforms-3\7514bc844693aafa292bd9ca5b70a83a\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:29:13-51
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\03d3eb1643af5da2123b475830973de1\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:30:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Korisnik\.gradle\caches\transforms-3\7afdedb7cedc0184d159c3318d346d97\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:9:9-21:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:9:9-21:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:9:9-21:19
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:11:13-36
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:12:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:10:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:14:13-16:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:15:17-94
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:15:25-91
+meta-data#tflite_gpu_dynamite:222612000:required
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:18:13-20:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:20:17-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0c902d213168ed14d5a2a2564eb041d1\transformed\jetified-play-services-tflite-gpu-16.0.0\AndroidManifest.xml:19:17-70
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0447815fe15ce11344bca2b64f13ad81\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Korisnik\.gradle\caches\transforms-3\8a90676438877cdc1bfc0f9262adb989\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+meta-data#tflite_dynamite:3:required
+ADDED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:18:13-20:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:20:17-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-impl:16.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a4d83153eb053be95ad55db026c2cce5\transformed\jetified-play-services-tflite-impl-16.0.0\AndroidManifest.xml:19:17-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\1db2919c31e06acc1374d84ec9d8d53d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\17f1d6e9f0c8a115fa7210e5d9af663a\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Korisnik\Desktop\VisionAssistAndroid\app\src\main\AndroidManifest.xml:3:1-50:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
